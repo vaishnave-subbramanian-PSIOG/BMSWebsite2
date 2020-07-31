@@ -71,7 +71,6 @@
     <Compile Include="CASTING.cs">
       <DependentUpon>BMSDataModel.tt</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
     <Compile Include="CUSTOMER.cs">
       <DependentUpon>BMSDataModel.tt</DependentUpon>
     </Compile>
